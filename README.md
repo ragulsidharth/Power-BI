@@ -1,2 +1,0 @@
-# Power-BI
-BLINKIT PROJECT 
